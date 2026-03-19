@@ -1,0 +1,9 @@
+---
+title: "Análisis Exploratorio"
+format: html
+editor: visual
+---
+
+## Aquí va la playada del análisis exploratorio
+
+
